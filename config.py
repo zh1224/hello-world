@@ -5,8 +5,8 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 # Authentication for user filing issue (must have read/write access to repository to add issue to)
-USERNAME = 'zh1224'
-TOKEN = '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'
+USERNAME = '1243271157@qq.com'
+TOKEN = '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'
 
 # The repository to add this issue to
 REPO_OWNER = 'zh1224'
