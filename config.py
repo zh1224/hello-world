@@ -16,7 +16,7 @@ REPO_NAME = 'hello-world'
 NEW_SUB_URL = 'https://arxiv.org/list/cs/new'
 
 # Keywords to search
-KEYWORD_LIST = ["reinforcement learning agent", "TD3","Prioritized Experience Replay",]
+KEYWORD_LIST = ["reinforcement learning”, "TD3","Prioritized Experience Replay",]
 
 
 OPENAI_API_KEYS = ['sk-proj-LtiGrLr7HPw1bzPVPExST3BlbkFJBTX0Rm7WhTho0ZgbqjxA', ]
