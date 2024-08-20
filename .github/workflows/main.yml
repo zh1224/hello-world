@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    -   cron: "00 15* * 1,2,3,4,5,6,7"
+    -   cron: "10 15* * 1,2,3,4,5,6,7"
 
 jobs:
   backup:
