@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    -   cron: "40 9 * * 0-6"
+    -   cron: "35 9 * * 0-6"
 
 
 
